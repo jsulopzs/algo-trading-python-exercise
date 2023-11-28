@@ -6,22 +6,26 @@ You'll learn and practice the Python code to:
 
 ## 1. Download Stock Market Data
 
-![](src/OHLCV.png)
-
 <div>
     <img src="src/OHLCV.png" width="400"/>
 </div>
 
 ## 2. Calculate Returns
 
-![](src/returns.png)
+<div>
+    <img src="src/returns.png" width="400"/>
+</div>
 
 ## 3. Submit Order to Broker
 
 Using Python code with the [Alpaca API](https://alpaca.markets/docs/api-documentation/):
 
-![](src/alpaca.png)
+<div>
+    <img src="src/alpaca.png" width="400"/>
+</div>
 
 ## 4. Create & Backtest Trading Strategy
 
-![](src/backtesting.png)
+<div>
+    <img src="src/backtesting.png" width="400"/>
+</div>
