@@ -8,6 +8,10 @@ You'll learn and practice the Python code to:
 
 ![](src/OHLCV.png)
 
+<div>
+    <img src="src/OHLCV.png" width="400"/>
+</div>
+
 ## 2. Calculate Returns
 
 ![](src/returns.png)
